@@ -2,6 +2,8 @@
 
 Action Barをはじめ、Androidアプリのだいたいのデザインを作成したいときに使えるテンプレートです。
 
+![AndroidDesignTemplates](https://raw.githubusercontent.com/tommmmmmmmy/AndroidDesignTemplates/master/assets/capture.png)
+
 ## 内容
 
  * AndroidDesignTempates_xxhdpi.ai
