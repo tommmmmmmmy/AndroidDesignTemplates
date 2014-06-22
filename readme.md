@@ -5,7 +5,7 @@ Action Barをはじめ、Androidアプリのだいたいのデザインを作成
 ## 内容
 
  * AndroidDesignTempates_xxhdpi.ai
- 	* xxhdpi用（1080x1280）のテンプレートです。
+ 	* xxhdpi用（1080x1920）のテンプレートです。
  	* その他のサイズはそのうち追加します。
 
 ### このテンプレートを開くにあたって必要なもの
