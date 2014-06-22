@@ -8,6 +8,14 @@ Action Barをはじめ、Androidアプリのだいたいのデザインを作成
  	* xxhdpi用（1080x1280）のテンプレートです。
  	* その他のサイズはそのうち追加します。
 
+### このテンプレートを開くにあたって必要なもの
+
+ *  フォント
+ 	* Roboto（http://developer.android.com/design/style/typography.html）
+ 	* ヒラギノ角ゴ Pro（Macの方はそのままでOK）
+ * Illustratorのバージョン
+ 	* CC（17.0）
+
 ## その他
 
  * ブログ（http://aadesigns.info/）
