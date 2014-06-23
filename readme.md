@@ -13,14 +13,14 @@ Action Barをはじめ、Androidアプリのだいたいのデザインを作成
 ### このテンプレートを開くにあたって必要なもの
 
  *  フォント
- 	* Roboto（http://developer.android.com/design/style/typography.html）
+ 	* Roboto（<http://developer.android.com/design/style/typography.html>）
  	* ヒラギノ角ゴ Pro（Macの方はそのままでOK）
  * Illustratorのバージョン
  	* CC（17.0）
 
 ## その他
 
- * ブログ（http://aadesigns.info/）
+ * ブログ（<http://aadesigns.info/>）
 
  * 要望、ご意見などは [@tommmmy](https://twitter.com/tommmmy) までお気軽に。
 
